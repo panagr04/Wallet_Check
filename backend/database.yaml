@@ -1,0 +1,5 @@
+uri: 'mongodb://localhost:27017/budget-up'
+mail_user: "coentestg20@gmail.com"
+mail_password: "coentest@123"
+
+jtwSecretToken: "dkjcirb8h385uhn2quc08r5h092urpivp982j5095j295h"
